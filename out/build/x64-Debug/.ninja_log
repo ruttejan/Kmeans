@@ -1,0 +1,6 @@
+# ninja log v5
+45	1876	7566847632485813	CMakeFiles/kmeans.dir/dataGenerator.obj	c9a444ff233125a7
+3	1228	7566858612982265	CMakeFiles/kmeans.dir/kmeans.obj	1218d6b92ae39720
+25	684	7566888598737687	CMakeFiles/kmeans.dir/main.obj	334fce8a462b50d3
+710	1174	7566888602715777	kmeans.exe	7c1a2143a28cbb6d
+33	933	7566859809255076	CMakeFiles/kmeans.dir/tests.obj	9b5e384bfc7234fc

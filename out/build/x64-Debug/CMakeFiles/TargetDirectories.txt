@@ -1,0 +1,3 @@
+C:/Users/honza/Documents/Škola/PCC/kmeans/out/build/x64-Debug/CMakeFiles/kmeans.dir
+C:/Users/honza/Documents/Škola/PCC/kmeans/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/honza/Documents/Škola/PCC/kmeans/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
